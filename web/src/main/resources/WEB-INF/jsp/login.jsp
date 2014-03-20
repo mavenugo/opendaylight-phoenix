@@ -7,11 +7,12 @@ pageEncoding="UTF-8"%>
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>OpenDaylight Phoenix - Login</title>
+    <title>OpenDaylight Toolkit - Login</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- style -->
+    <link rel="icon" href="/img/favicon.ico"/>
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.4.2/pure-min.css"/>
     <link rel="stylesheet" href="/css/login.css"/>
     

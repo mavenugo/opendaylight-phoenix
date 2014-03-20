@@ -6,7 +6,7 @@ define([
   'jquery',     				// lib/jquery/jquery
   'underscore', 				// lib/underscore/underscore
   'backbone',    				// lib/backbone/backbone
-  '/${artifactId}/js/views/View.js'	// app
+  '/${artifactId}/web/js/views/View.js'	// app
 ], function($, _, Backbone, View){
   var initialize = function() {
     var view = new View(); // this calls initialize which in turn calls render

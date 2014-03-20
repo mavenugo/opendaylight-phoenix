@@ -33,8 +33,7 @@ body {
   height: 300px;
   border-radius: 10px;
   display: inline-block;
-  background: url('/img/logo.png') center top 10px no-repeat #fff;
-  box-shadow: 0 0 50px #646464;
+  background: url('/img/logo.png') center top 10px no-repeat;
   font-size: 0.9em;
 }
 
@@ -44,4 +43,9 @@ body {
 
 #form fieldset input {
   margin-right: 5px;
+  box-shadow: 0 0 50px #646464;
+}
+
+#form fieldset button {
+  box-shadow: 0 0 50px #646464;
 }
